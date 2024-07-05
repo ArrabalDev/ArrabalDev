@@ -1,3 +1,3 @@
 ## 👋 Aqui eu posto algumas sources que eu mesmo fiz em Python, na maioria das vezes são projetos que eu desisti de terminar.
 
-• Se encontrar algo em inglês é porque eu gosto de fazer meus sistemas em inglês.
+• Alguns sistemas estão em inglês porque eu gosto de fazer em inglês e também gosto de chamar a atenção de alguns gringos por aí (O ChatGPT me ajuda a fazer textos longos para colocar nos comandos, mas os sistemas eu mesmo faço!).
