@@ -8,5 +8,5 @@
 
 <div align="center">
     <h2>🚀 @ArrabalDev</h2>
-    <h2>Suporte: https://discord.gg/xqnzGwwaFd</h2>
+    <h2>✉️ Suporte: https://discord.gg/xqnzGwwaFd</h2>
 </div>
