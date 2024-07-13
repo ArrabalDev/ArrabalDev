@@ -3,4 +3,4 @@
 
 ![@ArrabalDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrabalDev&show_icons=true&theme=transparent) 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![LuaU](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
