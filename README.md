@@ -7,5 +7,6 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[ArrabalDev]/[ArrabalDev]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <h2>🚀 About Me</h2>
+    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
 </div>
