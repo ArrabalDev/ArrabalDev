@@ -2,4 +2,4 @@
 ## Alguns sistemas estão em inglês porque eu gosto de fazer em inglês e também gosto de chamar a atenção de alguns gringos por aí.
 
 ![@ArrabalDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrabalDev&show_icons=true&theme=transparent)
-[!(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
